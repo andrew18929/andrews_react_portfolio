@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import NavTabs from "../NavTabs";
-import AboutMe from "../AboutMe";
-import Contact from "../Contact";
-import PortfolioContainer from "../PortfolioContainer";
-import Resume from "../Resume";
+import NavTabs from "../NavTabs/navTabs";
+import AboutMe from "../AboutMe/aboutMe";
+import Contact from "../Contact/contact";
+import PortfolioContainer from "../PortfolioContainer/portfolioContainer";
+import Resume from "../Resume/resume";
 
 // may need to import helper.js?
 
