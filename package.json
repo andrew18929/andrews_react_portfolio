@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-pdf": "^5.6.0",
+    "reactstrap": "^9.0.1"
+  }
+}
