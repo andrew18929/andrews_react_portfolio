@@ -1,9 +1,9 @@
 import projectPic1 from "./assets/images/BookStack.JPG";
-import projectPic2 from "../assets/images/FitnessTrackerCapture.JPG";
-import projectPic3 from "../assets/images/ProjectTrackerCapture.JPG";
-import projectPic4 from "../assets/images/StreamThisCapture";
-import projectPic5 from "../assets/images/WeatherDashboardCapture";
-import projectPic6 from "../assets/images/WorkDaySchedulerCapture.JPG";
+import projectPic2 from "./assets/images/FitnessTrackerCapture.JPG";
+import projectPic3 from "./assets/images/ProjectTrackerCapture.JPG";
+import projectPic4 from "./assets/images/StreamThisCapture";
+import projectPic5 from "./assets/images/WeatherDashboardCapture";
+import projectPic6 from "./assets/images/WorkDaySchedulerCapture.JPG";
 
 export const projectPics = [
   {
