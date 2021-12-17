@@ -1,4 +1,4 @@
-import projectPic1 from "../assets/images/BookStack.JPG";
+import projectPic1 from "./assets/images/BookStack.JPG";
 import projectPic2 from "../assets/images/FitnessTrackerCapture.JPG";
 import projectPic3 from "../assets/images/ProjectTrackerCapture.JPG";
 import projectPic4 from "../assets/images/StreamThisCapture";
