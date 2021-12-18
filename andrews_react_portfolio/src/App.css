@@ -44,7 +44,7 @@
 }
 
 /* ABOUT */
-.bio-photo {
+.portfolio-pic {
   border-radius: 20%;
   width: 200px;
 }
@@ -73,7 +73,7 @@ textarea {
 .button1 {
   border-radius: 20%;
   padding: 10px;
-  background-color: tan;
+  background-color: #bdb76b;
 }
 
 /* NAV */
@@ -93,11 +93,11 @@ span {
 }
 
 span:hover {
-  color: tan;
+  color: #bdb76b;
 }
 
 .navActive {
-  color: tan;
+  color: #bdb76b;
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
@@ -118,28 +118,28 @@ span:hover {
   background-position: center;
 }
 
-.screenshot {
-  background-image: url("./assets/images/screenshot.png");
+.projectPic1 {
+  background-image: url("./assets/images/BookStack.JPG");
 }
 
-.screenshot2 {
-  background-image: url("./assets/images/screenshot2.png");
+.projectPic2 {
+  background-image: url("./assets/images/FitnessTrackerCapture.JPG");
 }
 
-.envoypic {
-  background-image: url("./assets/images/envoypic.png");
+.projectPic3 {
+  background-image: url("./assets/images/ProjectTrackerCapture.JPG");
 }
 
-.screenshottwo {
-  background-image: url("./assets/images/screenshottwo.png");
+.projectPic4 {
+  background-image: url("./assets/images/StreamThisCapture.JPG");
 }
 
-.screenshot5 {
-  background-image: url("./assets/images/screenshot5.png");
+.projectPic5 {
+  background-image: url("./assets/images/WeatherDashboardCapture.JPG");
 }
 
-.screenshotcopy {
-  background-image: url("./assets/images/screenshotcopy.png");
+.projectPic6 {
+  background-image: url("./assets/images/WorkDaySchedulerCapture.JPG");
 }
 
 .image {
@@ -192,5 +192,3 @@ span:hover {
   overflow: auto;
   margin: auto;
 }
-
-/* RESUME */
