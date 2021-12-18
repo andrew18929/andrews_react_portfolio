@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andrews_react_portfolio/static/css/main.073c9b0a.css",
+    "main.css": "/andrews_react_portfolio/static/css/main.3a2898e4.css",
     "main.js": "/andrews_react_portfolio/static/js/main.73f9b159.js",
     "static/js/787.7de28135.chunk.js": "/andrews_react_portfolio/static/js/787.7de28135.chunk.js",
     "static/media/Andrew Martinez Resume.pdf": "/andrews_react_portfolio/static/media/Andrew Martinez Resume.ac46eca1216dc71052aa.pdf",
@@ -12,12 +12,12 @@
     "static/media/WorkDaySchedulerCapture.JPG": "/andrews_react_portfolio/static/media/WorkDaySchedulerCapture.610835f0186fadeacdcf.JPG",
     "static/media/FitnessTrackerCapture.JPG": "/andrews_react_portfolio/static/media/FitnessTrackerCapture.a2feb0b8ccb5d83307a8.JPG",
     "index.html": "/andrews_react_portfolio/index.html",
-    "main.073c9b0a.css.map": "/andrews_react_portfolio/static/css/main.073c9b0a.css.map",
+    "main.3a2898e4.css.map": "/andrews_react_portfolio/static/css/main.3a2898e4.css.map",
     "main.73f9b159.js.map": "/andrews_react_portfolio/static/js/main.73f9b159.js.map",
     "787.7de28135.chunk.js.map": "/andrews_react_portfolio/static/js/787.7de28135.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.3a2898e4.css",
     "static/js/main.73f9b159.js"
   ]
 }
