@@ -14,14 +14,14 @@ const PortfolioContainer = () => {
       <Wrapper>
         {projectPics.map((project) => (
           <Projects
-            id={projectPics.id}
-            key={projectPics.id}
-            name={projectPics.projectTitle}
-            description={projectPics.projectDescription}
-            url={projectPics.projectURL}
-            github={projectPics.projectRepo}
-            image={projectPics.projectPics}
-            technology={projectPics.projectTechnologies}
+            id={project.id}
+            key={project.id}
+            name={project.projectTitle}
+            description={project.projectDescription}
+            url={project.projectURL}
+            github={project.projectRepo}
+            image={project.projectPics}
+            technology={project.projectTechnologies}
           />
         ))}
       </Wrapper>
