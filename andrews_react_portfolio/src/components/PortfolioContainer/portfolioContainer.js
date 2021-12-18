@@ -20,7 +20,7 @@ const PortfolioContainer = () => {
             description={project.projectDescription}
             url={project.projectURL}
             github={project.projectRepo}
-            image={project.projectPics}
+            image={project.projectPic}
             technology={project.projectTechnologies}
           />
         ))}
