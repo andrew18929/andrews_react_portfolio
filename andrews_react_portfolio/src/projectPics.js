@@ -5,7 +5,7 @@ import projectPic4 from "./assets/images/StreamThisCapture.JPG";
 import projectPic5 from "./assets/images/WeatherDashboardCapture.JPG";
 import projectPic6 from "./assets/images/WorkDaySchedulerCapture.JPG";
 
-export const projectPics = [
+const projectPics = [
   {
     id: 1,
     projectTitle: "Book Stack",
@@ -74,3 +74,5 @@ export const projectPics = [
     projectRole: "Sole Author",
   },
 ];
+
+export default projectPics;
