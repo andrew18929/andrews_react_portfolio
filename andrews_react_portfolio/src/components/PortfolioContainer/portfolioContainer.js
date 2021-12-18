@@ -2,7 +2,7 @@ import React from "react";
 import Projects from "../Projects/projects";
 import Wrapper from "../Wrapper/wrapper";
 
-import projectPics from "../../projectPics";
+import projectPics from "../../projectPics.json";
 
 const PortfolioContainer = () => {
   return (
