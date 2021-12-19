@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/andrews_react_portfolio/static/css/main.3a2898e4.css",
-    "main.js": "/andrews_react_portfolio/static/js/main.0ae3d2e2.js",
+    "main.css": "/andrews_react_portfolio/static/css/main.0af63cb2.css",
+    "main.js": "/andrews_react_portfolio/static/js/main.5da8f8a3.js",
     "static/js/787.7de28135.chunk.js": "/andrews_react_portfolio/static/js/787.7de28135.chunk.js",
-    "static/media/Andrew Martinez Resume.pdf": "/andrews_react_portfolio/static/media/Andrew Martinez Resume.ac46eca1216dc71052aa.pdf",
+    "static/media/AndrewMartinezResume.pdf": "/andrews_react_portfolio/static/media/AndrewMartinezResume.ac46eca1216dc71052aa.pdf",
     "static/media/BookStack.JPG": "/andrews_react_portfolio/static/media/BookStack.80db0e581576a1f11b88.JPG",
     "static/media/StreamThisCapture.JPG": "/andrews_react_portfolio/static/media/StreamThisCapture.0dd36a4d21348a67953c.JPG",
     "static/media/Me.JPG": "/andrews_react_portfolio/static/media/Me.c941f03e7bb13b863c26.JPG",
@@ -12,12 +12,12 @@
     "static/media/WorkDaySchedulerCapture.JPG": "/andrews_react_portfolio/static/media/WorkDaySchedulerCapture.610835f0186fadeacdcf.JPG",
     "static/media/FitnessTrackerCapture.JPG": "/andrews_react_portfolio/static/media/FitnessTrackerCapture.a2feb0b8ccb5d83307a8.JPG",
     "index.html": "/andrews_react_portfolio/index.html",
-    "main.3a2898e4.css.map": "/andrews_react_portfolio/static/css/main.3a2898e4.css.map",
-    "main.0ae3d2e2.js.map": "/andrews_react_portfolio/static/js/main.0ae3d2e2.js.map",
+    "main.0af63cb2.css.map": "/andrews_react_portfolio/static/css/main.0af63cb2.css.map",
+    "main.5da8f8a3.js.map": "/andrews_react_portfolio/static/js/main.5da8f8a3.js.map",
     "787.7de28135.chunk.js.map": "/andrews_react_portfolio/static/js/787.7de28135.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a2898e4.css",
-    "static/js/main.0ae3d2e2.js"
+    "static/css/main.0af63cb2.css",
+    "static/js/main.5da8f8a3.js"
   ]
 }
