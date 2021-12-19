@@ -1,6 +1,6 @@
 import React from "react";
-import Projects from "../Projects/projects";
-import Wrapper from "../Wrapper/wrapper";
+import Projects from "../Projects/projects.js";
+import Wrapper from "../Wrapper/wrapper.js";
 
 import projectPics from "../../projectPics.json";
 

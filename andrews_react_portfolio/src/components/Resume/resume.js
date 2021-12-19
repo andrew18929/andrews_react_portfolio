@@ -1,6 +1,6 @@
 import React from "react";
 import { Document, Page, pdfjs } from "react-pdf";
-import myResume from "../../assets/Andrew Martinez Resume.pdf";
+import myResume from "../../assets/AndrewMartinezResume.pdf";
 pdfjs.GlobalWorkerOptions.workerSrc = `cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 export default function Resume() {
@@ -8,7 +8,7 @@ export default function Resume() {
     <div className="resume">
       <h3 className="heading">Andrew Martinez Resume</h3>
       <a
-        href="../../assets/Andrew Martinez Resume.pdf"
+        href="../../assets/AndrewMartinezResume.pdf"
         rel="noreferrer"
         target="_blank"
       >

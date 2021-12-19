@@ -16,14 +16,14 @@ code {
 }
 
 .hero {
-  height: 20vh;
+  height: 10vh;
   width: 100%;
-  padding: 5%;
+  padding: 3%;
 }
 
 .main {
   padding: 4px;
-  margin-top: 5%;
+  margin-top: 1%;
   text-align: center;
 }
 
